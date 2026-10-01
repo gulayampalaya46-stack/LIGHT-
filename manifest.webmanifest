@@ -1,14 +1,24 @@
 {
-  "name":"IGNIVAR — Chapter 1",
-  "short_name":"IGNIVAR",
-  "start_url":"./",
-  "scope":"./",
-  "display":"standalone",
-  "orientation":"landscape",
-  "background_color":"#07080b",
-  "theme_color":"#0b0c10",
-  "icons":[
-    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}
+  "name": "IGNIVAR \u2014 Chapter 1",
+  "short_name": "IGNIVAR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07080b",
+  "theme_color": "#0b0c10",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
